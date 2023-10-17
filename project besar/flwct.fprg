@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="HP"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-01-02 11:53:04 PM"/>
+        <attribute name="created" value="SFA7TEFQVE9QLURRR0VWNEo4OzIwMjMtMDEtMDI7MDg6MDE6MzIgUE07MjQ4Ng=="/>
+        <attribute name="edited" value="SFA7TEFQVE9QLURRR0VWNEo4OzIwMjMtMDEtMDI7MTE6NTM6MDQgUE07MTsyNTk0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <input variable="username + psswd"/>
+            <assign variable="" expression=""/>
+        </body>
+    </function>
+</flowgorithm>
